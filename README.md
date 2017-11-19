@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 고대표와아이들 세션^^
 
 You can use the [editor on GitHub](https://github.com/syj0204/test.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
